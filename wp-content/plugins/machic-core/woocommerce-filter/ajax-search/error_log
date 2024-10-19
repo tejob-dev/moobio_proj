@@ -1,0 +1,4 @@
+[03-Feb-2024 13:02:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/klbtheme/public_html/machic/wp-content/plugins/machic-core/woocommerce-filter/ajax-search/ajax-search.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/klbtheme/public_html/machic/wp-content/plugins/machic-core/woocommerce-filter/ajax-search/ajax-search.php on line 12
